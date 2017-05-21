@@ -1,0 +1,8 @@
+[
+"Mack",
+"Enix",
+"mackenix@yahoo.com",
+"Austin",
+"Texas",
+"123 Rainey Street"
+]

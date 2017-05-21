@@ -1,0 +1,25 @@
+#navBar.ul.li{
+  color: black;
+}
+
+#search{
+  margin: auto;
+  width: 30%;
+}
+
+#signIn{
+  width: 25%;
+}
+
+#header, #signInText{
+  color: #5cb85c;
+  margin-top: 0px;
+}
+
+#tableWrapper{
+  padding-top: 30px;
+}
+
+.jumbotron{
+  background-image: url("plants.jpg");
+}
